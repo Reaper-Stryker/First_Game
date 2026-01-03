@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FIRST GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\parallexeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallexeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|d:\\first game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\healthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\events\\characterevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events\\characterevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|D:\\FIRST GAME\\assets\\scripts\\faderemovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBBF7B4-CFFB-82F2-3813-5A37931D33CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\faderemovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:24:23.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:47:37.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:09:59.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:57:30.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthPickup.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthPickup.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\HealthPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:56:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CharacterEvents.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\Events\\CharacterEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Events\\CharacterEvents.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\Events\\CharacterEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Events\\CharacterEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:16:58.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA+wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:33:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthText.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\HealthText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthText.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\HealthText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthText.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:41:20.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:57:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FadeRemoveBehaviour.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\FadeRemoveBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeRemoveBehaviour.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\FadeRemoveBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadeRemoveBehaviour.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:57:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetBoolBehaviour.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:45:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouchingDirections.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchingDirections.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchingDirections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:13:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:13:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParallexEffect.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\ParallexEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallexEffect.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\ParallexEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallexEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:13:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimationStrings.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationStrings.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:13:16.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "D:\\FIRST GAME\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectionZone.cs",
+              "ToolTip": "D:\\FIRST GAME\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectionZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:46:38.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
